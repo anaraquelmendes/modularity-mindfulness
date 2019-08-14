@@ -15,12 +15,12 @@ html {
 nav li a {
   color: #005e76;
   text-decoration: none;
-  border-bottom: 2px solid ##8bc9d9;
+  border-bottom: 2px solid #8bc9d9;
 }
 
 .nav li a:hover {
   border-color: #005e76;
-  color:  #0084a6;
+  color: #0084a6;
 }
 
 .btn {
@@ -39,12 +39,11 @@ nav li a {
   text-decoration: none;
 }
 
-
 .btn-ghost:hover {
   background-color: #8bc9d9;
   border-color: #005e76;
   text-decoration: none;
-  color: #005e76
+  color: #005e76;
 }
 
 footer {
@@ -58,8 +57,8 @@ footer {
     text-align: right;
   }
 
-.header-left {
-  text-align: left;
+  .header-left {
+    text-align: left;
 }
 
 }
