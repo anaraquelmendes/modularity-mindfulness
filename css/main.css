@@ -18,7 +18,7 @@ nav li a {
   border-bottom: 2px solid #8bc9d9;
 }
 
-.nav li a:hover {
+nav li a:hover {
   border-color: #005e76;
   color: #0084a6;
 }
